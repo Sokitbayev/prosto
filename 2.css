@@ -1,0 +1,122 @@
+
+.headr{
+    padding-left: 10px;
+    color: blue;
+}
+
+.h{
+    color: firebrick;
+
+}
+
+.f{
+    padding-top: 1200px;
+    padding-left: 1200px;
+    color: grey;
+    font-size: 13px;
+}
+
+.t{
+    padding-top: 100px;
+}
+
+#b{
+    position: absolute;
+    left: 190px;
+    top: 190px;
+    width:190px;
+    height:700px;
+}
+.table1{
+    border-collapse: collapse;
+}
+.td1
+{
+    border: 1px solid lightgrey;
+    color: cyan;
+    width: 550px;
+    border-radius: 5px;
+}
+.p1{
+    color: darkgray;
+    margin-bottom: 2px;
+    margin-top: 10px;
+    margin-left: 8px;
+    text-align: left;
+    vertical-align: bottom;
+}
+.table2{
+    background-color: bisque;
+    width: 750px;
+    border:  3px solid lightblue;
+}
+.table3{
+    background-color: bisque;
+    border-collapse: collapse;
+    width: 750px;
+    height: 80px;
+    border-color:  3px solid lightblue;
+}
+#a{
+    position: absolute;
+    left: 385px;
+    top: 190px;
+    width: 940px;
+    height:500px;
+}
+table{
+    border-spacing: 5px;
+}
+#c{
+    position: absolute;
+    left: 385px;
+    top: 280px;
+    width: 150px;
+    height:300px;
+}
+#d{
+    position: absolute;
+    left: 540px;
+    top: 280px;
+    width: 500px;
+    height:1500px;
+}
+.td2{
+    text-align: right;
+    border: 1px solid lightgrey;
+    padding: 9px;
+    padding-left: 18px;
+}
+.td3{
+    font-weight: bold;
+    border: 1px solid lightgrey;
+    padding: 9px;
+    padding-left: 18px;
+}
+.table4{
+    border-collapse: collapse;
+    border: 1px solid lightgrey;
+    
+}
+
+#e{
+    position: absolute;
+    left: 385px;
+    top:120px;
+}
+
+#f{
+    position: absolute;
+    left: 190px;
+    top:30px;
+}
+#g{
+    position: absolute;
+    left:395px;
+    top:30px;
+}
+.aaaaa{
+    background-color: lightblue;
+    border-radius: 3px;
+    color: white;
+}
